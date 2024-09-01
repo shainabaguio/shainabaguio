@@ -42,8 +42,14 @@
 </p>
 
 ### 🏆 Certifications & Achievements
-- **Full Stack Development** - Empowered by [Coursera](https://coursera.org)
-- **Advanced JavaScript Techniques** - Mastered at [Udemy](https://udemy.com)
+
+- **Java Course Completion** - Java Foundations
+- **Testing In the IT Industry** - Metrobank STRONG Training
+- **Cybersecurity for Everyone** - DICT Seminar
+- **Artificial Intelligence** - Alpha Devfest 2022
+- **Internet Of Things** - Alpha Devfest 2022
+- **Computer Networking** - Alpha Devfest 2022
+- **UI/UX Design** - Alpha Devfest 2022
 
 ---
 
