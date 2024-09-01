@@ -13,6 +13,9 @@
 ### GitHub Statistics
 ![Yna's GitHub stats](https://github-readme-stats.vercel.app/api?username=shainabaguio&show_icons=true&theme=radical)
 
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shainabaguio&theme=dark)
+
 ### Certificates
 - 🏆 **Full Stack Development** - Issued by [Coursera](https://coursera.org)
 - 🏆 **Advanced JavaScript** - Issued by [Udemy](https://udemy.com)
