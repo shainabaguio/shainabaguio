@@ -1,46 +1,52 @@
-<h1 align="center">👋 Hi, I'm Yna Baguio!</h1>
+<h1 align="center">🌟 Welcome, I'm Yna Baguio! 🌟</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="250">
 </p>
 
-<h2 align="center">🌐 Web Developer | Backend Magician | Tech Enthusiast</h2>
+<h2 align="center">🌐 Web Developer | 🎓 Student Advocate | 💻 Tech Innovator</h2>
 
 <p align="center">
-  From <b>front-end designs in cozy cafes</b> to <b>backend systems in dynamic server rooms</b>, my journey in web development continues to evolve, bridging creativity with technical expertise.
+  <b>Dedicated to empowering students through technology, I bridge coding and career opportunities, fostering a community where young tech talents thrive.</b> Join me in driving innovation and creating real-world impacts for students.
 </p>
 
 <p align="center">
   <a href="https://github.com/shainabaguio?tab=repositories">
-    <img src="https://img.shields.io/badge/-Check out my work-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos">
+    <img src="https://img.shields.io/badge/Explore_my_Work-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos">
   </a>
 </p>
 
-### 🚀 More About Me:
-- 🔭 I’m currently working on **server-side applications** that power complex web services.
-- 🌱 I’m currently learning **Cloud Infrastructure** to enhance my backend skills.
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- 💬 Ask me about **JavaScript, Node.js, and database management**.
-- 📫 How to reach me: **shainarssbg@gmail.com**
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **Started with a passion for front-end, now I make the backend my canvas!**
-
-### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shainabaguio&show_icons=true&theme=synthwave&count_private=true" alt="Yna's GitHub Stats">
+  <img src="https://komarev.com/ghpvc/?username=shainabaguio&style=flat-square&color=brightgreen" alt="Profile views">
 </p>
 
-### 🔥 My Streak Stats:
+### 🎢 Championing Student Success
+- 🔭 **Current Initiatives**: Developing applications and platforms that provide practical tech experience and job opportunities for students.
+- 🌱 **Learning**: Deepening my knowledge in scalable tech solutions that support educational and professional growth.
+- 🤝 **Collaboration**: Eager to connect with projects and organizations focused on student development and career readiness.
+- 💬 **Engage with Me**: Discuss tech education, student job markets, and community building in technology.
+
+### 📬 Connect to Collaborate!
+- 📫 **Email**: shainarssbg@gmail.com (Reach out to discuss partnerships or student projects!)
+- 😄 **Pronouns**: She/Her
+- ⚡ **Fun Fact**: My journey started with a simple coding class; now, I'm leading efforts to open tech pathways for fellow students!
+
+### 🚀 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shainabaguio&theme=highcontrast&include_all_commits=true" alt="Yna's Commit Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=shainabaguio&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Yna's GitHub Stats">
 </p>
 
-### 🏆 Certifications:
-- **Full Stack Development** - Issued by [Coursera](https://coursera.org)
-- **Advanced JavaScript** - Issued by [Udemy](https://udemy.com)
+### 🔥 Staying Consistent
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shainabaguio&theme=neon-dark" alt="Yna's Commit Streak">
+</p>
+
+### 🏆 Certifications & Achievements
+- **Full Stack Development** - Empowered by [Coursera](https://coursera.org)
+- **Advanced JavaScript Techniques** - Mastered at [Udemy](https://udemy.com)
 
 ---
 
 <p align="center">
-  ✨ <b>This profile is where my professional meets my personal, where code becomes art.</b> ✨
+  <b>✨ Fostering a tech-empowered future, one student at a time. Let's innovate for impact! ✨</b>
 </p>
