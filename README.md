@@ -16,9 +16,6 @@
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shainabaguio&theme=dark)
 
-### Certificates
-- 🏆 **Full Stack Development** - Issued by [Coursera](https://coursera.org)
-- 🏆 **Advanced JavaScript** - Issued by [Udemy](https://udemy.com)
 
 ### Reach Out!
 - 📫 **Email**: shainarssbg@gmail.com - Always open for exciting collaborations or just a tech chat!
