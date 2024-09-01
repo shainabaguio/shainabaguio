@@ -1,28 +1,46 @@
-# 👋 Welcome to Yna Baguio's GitHub Profile!
+<h1 align="center">👋 Hi, I'm Yna Baguio!</h1>
 
-### About Me
-- 🌐 **Web Developer Extraordinaire**
-- 🔍 From crafting pixel-perfect frontends to architecting robust backend systems, my journey in tech continues to evolve!
-- 🌟 **Current Role**: Backend Magician, making data dance and servers sing.
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150">
+</p>
 
-### What I'm Into:
-- 🖥️ **Tech**: Both the shiny new and the tried-and-true.
-- 🎨 **Design**: Where my journey began, forever a passion.
-- 📚 **Learning**: Every day offers a new puzzle.
+<h2 align="center">🌐 Web Developer | Backend Magician | Tech Enthusiast</h2>
 
-### GitHub Statistics
-![Yna's GitHub stats](https://github-readme-stats.vercel.app/api?username=shainabaguio&show_icons=true&theme=radical)
+<p align="center">
+  From <b>front-end designs in cozy cafes</b> to <b>backend systems in dynamic server rooms</b>, my journey in web development continues to evolve, bridging creativity with technical expertise.
+</p>
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shainabaguio&theme=dark)
+<p align="center">
+  <a href="https://github.com/shainabaguio?tab=repositories">
+    <img src="https://img.shields.io/badge/-Check out my work-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos">
+  </a>
+</p>
 
+### 🚀 More About Me:
+- 🔭 I’m currently working on **server-side applications** that power complex web services.
+- 🌱 I’m currently learning **Cloud Infrastructure** to enhance my backend skills.
+- 👯 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
+- 💬 Ask me about **JavaScript, Node.js, and database management**.
+- 📫 How to reach me: **shainarssbg@gmail.com**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: **Started with a passion for front-end, now I make the backend my canvas!**
 
-### Reach Out!
-- 📫 **Email**: shainarssbg@gmail.com - Always open for exciting collaborations or just a tech chat!
-- 💬 **Pronouns**: She/Her
-- ⚡ **Fun Fact**: My tech adventure started with frontend designs in cozy cafes. Now, you’ll find me diving deep into backend code in dynamic server rooms!
+### 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shainabaguio&show_icons=true&theme=synthwave&count_private=true" alt="Yna's GitHub Stats">
+</p>
+
+### 🔥 My Streak Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shainabaguio&theme=highcontrast&include_all_commits=true" alt="Yna's Commit Streak">
+</p>
+
+### 🏆 Certifications:
+- **Full Stack Development** - Issued by [Coursera](https://coursera.org)
+- **Advanced JavaScript** - Issued by [Udemy](https://udemy.com)
 
 ---
 
-This profile is a ✨ special space ✨ because it's where my professional meets my personal, where code becomes art. Feel free to explore my repositories or [check out what I've been working on recently](https://github.com/shainabaguio?tab=repositories).
-
+<p align="center">
+  ✨ <b>This profile is where my professional meets my personal, where code becomes art.</b> ✨
+</p>
