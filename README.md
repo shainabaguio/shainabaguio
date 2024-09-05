@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=shainabaguio&style=flat-square&color=brightgreen" alt="Profile views">
 </p>
 
-### 🎢 Championing Student Success
+### 🎢 Goals
 - 🔭 **Current Initiatives**: Developing applications and platforms that provide practical tech experience and job opportunities for students.
 - 🌱 **Learning**: Deepening my knowledge in scalable tech solutions that support educational and professional growth.
 - 🤝 **Collaboration**: Eager to connect with projects and organizations focused on student development and career readiness.
@@ -32,14 +32,11 @@
 - ⚡ **Fun Fact**: My journey started with a simple coding class; now, I'm leading efforts to open tech pathways for fellow students!
 
 ### 🚀 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shainabaguio&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Yna's GitHub Stats">
-</p>
-
-### 🔥 Staying Consistent
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shainabaguio&theme=neon-dark" alt="Yna's Commit Streak">
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shainabaguio&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shainabaguio&show_icons=true&hide_border=true&theme=dark" alt="Yna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shainabaguio&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ### 🏆 Certifications & Achievements
 
